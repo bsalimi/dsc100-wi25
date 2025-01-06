@@ -19,7 +19,7 @@ Databases are at the heart of modern commercial application development. Their u
 **Course Assistants:**
 
 
-Baharan Khatami, [skhatami@ucsd.edu](mailto:skhatami@ucsd.edu)
+TBD
 
 
 
@@ -38,7 +38,7 @@ Tuesdays and Thursdays at 2:00p-3:20p
 
 Babak Salimi: Tuesdays at 4p-5p
 
-Baharan Khatami: Thursdays at 12:30p - 1:30p
+
 
 
 **Piazza:** [link](https://piazza.com/ucsd/spring2024/dsc100) (Requires access code posted on Canvas)
