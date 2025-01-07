@@ -28,7 +28,7 @@ TBD
 Tuesdays and Thursdays at 2:00p-3:20p
 	
 
-**Note:** The lectures for this course will be automatically recorded and made available for students to watch at their convenience. While attending the lectures in person is not required, it is highly recommended as it provides an opportunity to ask questions and interact with the instructor and other students. The recordings are meant to be a supplement to the in-person lectures and should not be used as a replacement for attendance
+**Note:** The lectures for this course will be automatically recorded and made available for students to watch at their convenience. The recordings are meant to be a supplement to the in-person lectures and should not be used as a replacement for attendance
 
 
 **Office Hours:**
