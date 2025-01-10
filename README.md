@@ -42,7 +42,7 @@ Babak Salimi: Tuesdays at 4p-5p
 
 Shruti Sawant: Fridays at 2p-3p
 
-Masfiqur Rahaman: Wednesday at 12p-1p
+Masfiqur Rahaman: Wednesday at 11a-12p
 
 
 **Piazza:** [link](https://piazza.com/ucsd/winter2025/dsc100) (Requires access code posted on Canvas)
