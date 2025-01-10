@@ -20,6 +20,7 @@ Databases are at the heart of modern commercial application development. Their u
 
 
 Shruti Sawant, ssawant@ucsd.edu
+Masfiqur Rahaman, marahaman@ucsd.edu
 
 
 
@@ -39,6 +40,8 @@ Tuesdays and Thursdays at 2:00p-3:20p
 Babak Salimi: Tuesdays at 4p-5p
 
 Shruti Sawant: Fridays at 2p-3p
+
+Masfiqur Rahaman: Wednesday at 12p-1p
 
 
 **Piazza:** [link](https://piazza.com/ucsd/winter2025/dsc100) (Requires access code posted on Canvas)
