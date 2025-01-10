@@ -21,7 +21,7 @@ Databases are at the heart of modern commercial application development. Their u
 
 Shruti Sawant, ssawant@ucsd.edu
 
-Masfiqur Rahaman, marahaman@ucsd.edu
+[Masfiqur Rahaman](https://masfiqur-rahaman.github.io/), marahaman@ucsd.edu
 
 
 
