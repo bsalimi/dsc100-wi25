@@ -38,7 +38,7 @@ Tuesdays and Thursdays at 2:00p-3:20p
 
 **Note:** Office hours will be held via Zoom (link can be found on the Canvas calendar - will be updated soon). 
 
-Babak Salimi: Tuesdays at 4p-5p
+Babak Salimi: Wednesday at 2p-3p
 
 Shruti Sawant: Fridays at 2p-3p
 
